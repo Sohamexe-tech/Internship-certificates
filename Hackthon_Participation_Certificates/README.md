@@ -8,22 +8,17 @@ Hackathon Participation Certificates
 Contains certificates from hackathons participated in by Soham Dalvi.
 📄 Soham_Dalvi_Certificate.jpg — Hackathon Participation Certificate
 
-
-
-
 🎯 Purpose
 
 To maintain a verified and accessible record of professional and academic achievements.
 To showcase participation in real-world events, internships, and competitive programs.
 To serve as a portfolio reference for recruiters, mentors, and collaborators.
 
-
 👨‍💻 About
 
 Name: Soham Dalvi
 GitHub: @Sohamexe-tech
 This repository is regularly updated as new certificates are earned.
-
 
 📌 How to View
 
