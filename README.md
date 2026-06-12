@@ -113,6 +113,7 @@ A consolidated and verified record of internships, training programs, certificat
 
 | Platform | Link                             |
 | -------- | -------------------------------- |
+| Email    |sohamdalvi52@gmail.com            |
 | GitHub   | https://github.com/Sohamexe-tech |
 | LinkedIn |www.linkedin.com/in/sohamxox-dalvi|
 | Instagram |https://www.instagram.com/sohamxox|
